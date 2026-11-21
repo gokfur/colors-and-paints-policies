@@ -9,7 +9,7 @@ Questions, bug reports or ideas? Write to **[gokfurca@icloud.com](mailto:gokfurc
 
 **Does it need internet?** No, it works fully offline.
 
-**Does it have ads or purchases?** No ads. No purchases. No tracking.
+**What does it cost? Does it have ads or purchases?** It is a one-time paid app: you buy it once on the App Store. There are no ads, no in-app purchases, no subscriptions and no tracking.
 
 **How do I change the language?** On the home screen tap the gear, then Language, and choose one of the ten languages: Turkish, English, Spanish, French, Indonesian, Portuguese, Japanese, Russian, Arabic or Urdu. The app changes at once.
 
