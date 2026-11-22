@@ -20,6 +20,9 @@ The app is made for children and is designed for the Apple Kids category. Becaus
 ## Pictures and sounds
 Pictures, music and sound effects are created for the app. The app is not affiliated with any brand, film, cartoon, game or character.
 
+## KVKK (Türkiye) / KVKK Aydınlatma Metni
+The app collects no personal data. For the few people who email us, the information required by Turkish law (KVKK, article 10) is on one page: [KVKK Aydınlatma Metni](kvkk).
+
 ## Changes
 If a future version adds online features or in-app purchases, this page will be updated in the same release, before it ships, and the change will be described in the App Store release notes.
 

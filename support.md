@@ -3,7 +3,24 @@ title: "Support"
 ---
 # Support: Colors and Paints
 
-Questions, bug reports or ideas? Write to **[gokfurca@icloud.com](mailto:gokfurca@icloud.com)**.
+Questions, bug reports or ideas? Tick the box below to show our email address.
+
+<div class="kvkk-gate">
+<label style="display:flex;gap:.6em;align-items:flex-start;cursor:pointer">
+<input type="checkbox" id="kvkk-ok" style="margin-top:.3em">
+<span>I have read the <a href="kvkk">KVKK notice</a> (Turkish data protection law) and understand that my email address and message are used only to answer me.<br>
+<em><a href="kvkk">KVKK Aydınlatma Metni</a>'ni okudum; e-posta adresimin ve mesajımın yalnızca bana cevap vermek için kullanılacağını anlıyorum.</em></span>
+</label>
+<p id="kvkk-mail" hidden style="font-size:1.15em;margin:.8em 0"><strong>Write to: <a href="mailto:gokfurca@icloud.com">gokfurca@icloud.com</a></strong></p>
+<noscript><p>Write to: <a href="mailto:gokfurca@icloud.com">gokfurca@icloud.com</a> (see the <a href="kvkk">KVKK notice</a> first).</p></noscript>
+</div>
+<script>
+(function () {
+  var box = document.getElementById("kvkk-ok"), mail = document.getElementById("kvkk-mail");
+  if (!box || !mail) { return; }
+  box.addEventListener("change", function () { mail.hidden = !box.checked; });
+})();
+</script>
 
 **Where are my child's pictures?** Only on your device. Deleting the app deletes them. A parent can add a finished picture to Photos (the app only adds, it never reads your photos) or share it, after the parental question.
 
